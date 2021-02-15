@@ -6,7 +6,7 @@ I am a developer hailing from The Netherlands. I have been a tech enthusiast for
 
 You may know me for projects such as the [Discord] bot [Ribbon] which I used to work on back in 2019, or more recently my many endeavours for [Favware] (primarily the [GraphQL Pokemon API] and [Dexa]) and [Skyra Project] (primarily the [Skyra Discord bot]). Aside from these projects I do a lot of side projects here and there. I mostly focus on [`TypeScript`] (and JavaScript :eyes:), [`React`].
 
-Aside from developing I'm a huge tech nerd and love just about everything technology. Oh and I also do a lot of gaming on the side, maybe check out [my Steam profile] 😅!
+Aside from developing I'm a huge tech nerd and love just about everything technology. Oh and I also do a lot of gaming on the side, maybe check out [my Steam profile][Steam] 😅!
 
 #### 📫 How to reach me
 
