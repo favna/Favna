@@ -1,0 +1,9 @@
+{
+  "name": "favna",
+  "packageManager": "yarn@3.2.0",
+  "private": true,
+  "devDependencies": {
+    "@sapphire/prettier-config": "^1.4.1",
+    "prettier": "^2.6.1"
+  }
+}

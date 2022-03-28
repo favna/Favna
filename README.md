@@ -1,51 +1,55 @@
-### Hi there 👋! 
+### Hi there 👋!
 
 My name is Jeroen Claassens (a.k.a. Favna).
 
-I am a developer hailing from The Netherlands. I have been a tech enthusiast for as long as I can remember. At the time of writing I am working for CGI Inc. as a Frontend Software Engineer.
+I am a developer hailing from The Netherlands. I have been a tech enthusiast for as long as I can remember. At the time
+of writing I am working for CGI Inc. as a Full Stack Senior Software Engineer & Consultant.
 
-You may know me for projects such as the [Discord] bot [Ribbon] which I used to work on back in 2019, or more recently my many endeavours for [Favware] (primarily the [GraphQL Pokemon API] and [Dexa]) and [Skyra Project] (primarily the [Skyra Discord bot]). Aside from these projects I do a lot of side projects here and there. I mostly focus on [`TypeScript`] (and JavaScript :eyes:), [`React`].
+Some of the projects I work on:
 
-Aside from developing I'm a huge tech nerd and love just about everything technology. Oh and I also do a lot of gaming on the side, maybe check out [my Steam profile][Steam] 😅!
+- [Sapphire] (Open source libraries to aid in the creation of Discord bots)
+- [Dragonite Discord bot][dragonite] (Pokémon information Discord bot)
+- [GraphQL Pokémon API][gqlp]
+- [Skyra Project] (Multiple Discord bots and Discord related libraries)
+- [Dexa] (Alexa app for Pokémon information)
+- [Favware] (Various projects made by me)
+
+Aside from developing I'm a huge tech nerd and love just about everything technology. Oh and I also do a lot of gaming
+on the side, maybe check out [my Steam profile][steam] 😅!
 
 #### 📫 How to reach me
 
 You can reach out to me on a multitude of platforms!
 
-- <img src="https://raw.githubusercontent.com/Favna/Favna/main/logo-discord.svg" width="24px" align="center">: [`Favna#0001`][Discord]
-- <img src="https://raw.githubusercontent.com/Favna/Favna/main/logo-twitter.svg" width="20px" align="center"> : [`Favna_`][Twitter]
-- <img src="https://raw.githubusercontent.com/Favna/Favna/main/logo-telegram.svg" width="20px" align="center"> : [`favnaa`][Telegram]
-- <img src="https://raw.githubusercontent.com/Favna/Favna/main/logo-steam.svg" width="20px" align="center"> : [`Favna`][Steam]
-- <img src="https://raw.githubusercontent.com/Favna/Favna/main/logo-gmail.svg" width="20px" align="center"> : [`support@favware.tech`][Email]
+- <img src="https://raw.githubusercontent.com/favna/favna/main/logo-discord.svg" width="24px" align="center">:
+  [`Favna#0001`][discord]
+- <img src="https://raw.githubusercontent.com/favna/favna/main/logo-twitter.svg" width="20px" align="center"> :
+  [`Favna_`][twitter]
+- <img src="https://raw.githubusercontent.com/favna/favna/main/logo-telegram.svg" width="20px" align="center"> :
+  [`favnaa`][telegram]
+- <img src="https://raw.githubusercontent.com/favna/favna/main/logo-steam.svg" width="20px" align="center"> :
+  [`Favna`][steam]
+- <img src="https://raw.githubusercontent.com/favna/favna/main/logo-gmail.svg" width="20px" align="center"> :
+  [`support@favware.tech`][email]
 
-#### Quick Statistics
+#### Statistics
 
-<table>
-  <tr>
-    <td align="center">
-      <img align="left" src="https://grs.quantumly.dev/api/?username=favna&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&extra=RWS-NL/air-node-packages;sapphiredev/utilities,framework,plugins,sapphire-template,pieces;skyra-project/skyra,skyra.pw,tags,char,outflux,ai,discord-components,saelem,alestra,docker-images;favware/graphql-pokemon,dexa,website,zsh-git-enhanced,node-packages,codespaces-containers,syntax-highlighter,zsh-git-enhanced,zsh-lerna,skip-dependency" />
-    </td>
-    <td align="center">
-      <img align="left" src="https://grs.quantumly.dev/api/top-langs/?username=favna&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&extra=RWS-NL/air-node-packages;sapphiredev/utilities,framework,plugins,sapphire-template,pieces;skyra-project/skyra,skyra.pw,tags,char,outflux,ai,discord-components,saelem,alestra,docker-images;favware/graphql-pokemon,dexa,website,zsh-git-enhanced,node-packages,codespaces-containers,syntax-highlighter,zsh-git-enhanced,zsh-lerna,skip-dependency" />
-    </td>
-  </tr>
-</table>
-
-> Provided by [`GitHub Readme Stats`]
+<div>
+  <a href="https://github.com/Gittified">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=favna&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favna&layout=compact&langs_count=7&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&theme=dark"/>
+</div>
 
 <!-- LINK DUMP -->
 
-[Discord]:                https://discord.com
-[Ribbon]:                 https://github.com/favna/ribbon
-[Favware]:                https://github.com/favware
-[GraphQL Pokemon API]:    https://github.com/favware/graphql-pokemon
-[Dexa]:                   https://github.com/favware/dexa
-[Skyra Project]:          https://github.com/skyra-project
-[Skyra Discord bot]:      https://github.com/skyra-project/skyra
-[Steam]:                  https://steamcommunity.com/id/Favna/
-[`TypeScript`]:           https://www.typescriptlang.org/
-[`React`]:                https://reactjs.org/
-[Twitter]:                https://twitter.com/Favna_
-[Telegram]:               https://t.me/favnaa
-[Email]:                  mailto:support@favware.tech
-[`GitHub Readme Stats`]:  https://github.com/anuraghazra/github-readme-stats
+[dexa]: https://github.com/favware/dexa
+[discord]: https://discord.com
+[dragonite]: https://github.com/favware/dragonite
+[email]: mailto:support@favware.tech
+[favware]: https://github.com/favware
+[gqlp]: https://github.com/favware/graphql-pokemon
+[sapphire]: https://sapphirejs.dev
+[skyra project]: https://github.com/skyra-project
+[steam]: https://steamcommunity.com/id/Favna/
+[telegram]: https://t.me/favnaa
+[twitter]: https://twitter.com/Favna_
