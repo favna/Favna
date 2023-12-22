@@ -22,9 +22,9 @@ on the side, maybe check out [my Steam profile][steam] 😅!
 You can reach out to me on a multitude of platforms!
 
 - <img src="https://raw.githubusercontent.com/favna/favna/main/logo-discord.svg" width="24px" align="center">:
-  [`Favna#0001`][discord]
+  [`@favna`][discord]
 - <img src="https://raw.githubusercontent.com/favna/favna/main/logo-twitter.svg" width="20px" align="center"> :
-  [`Favna_`][twitter]
+  [`Favna_`][X]
 - <img src="https://raw.githubusercontent.com/favna/favna/main/logo-telegram.svg" width="20px" align="center"> :
   [`favnaa`][telegram]
 - <img src="https://raw.githubusercontent.com/favna/favna/main/logo-steam.svg" width="20px" align="center"> :
@@ -53,4 +53,4 @@ You can reach out to me on a multitude of platforms!
 [skyra project]: https://github.com/skyra-project
 [steam]: https://steamcommunity.com/id/Favna/
 [telegram]: https://t.me/favnaa
-[twitter]: https://twitter.com/Favna_
+[X]: https://x.com/Favna_
