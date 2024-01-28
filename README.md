@@ -34,6 +34,8 @@ You can reach out to me on a multitude of platforms!
 
 #### Statistics
 
+<img src="https://komarev.com/ghpvc/?username=favna" alt="profile views" />
+
 <div>
   <a href="https://github.com/favna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=favna&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
