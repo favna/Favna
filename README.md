@@ -3,7 +3,7 @@
 My name is Jeroen Claassens (a.k.a. Favna).
 
 I am a developer hailing from The Netherlands. I have been a tech enthusiast for as long as I can remember. At the time
-of writing I am working for CGI Inc. as a Full Stack Senior Software Engineer & Consultant.
+of writing, I am working for CGI Inc. as a Full Stack Senior Software Engineer & Consultant.
 
 Some of the projects I work on:
 
